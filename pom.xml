@@ -14,7 +14,7 @@
     <module>single-module</module>
   </modules>
          
-         <distributionManagement>
+ <distributionManagement>
        <repository>
          <id>parent</id>
          <name>Parent</name>
