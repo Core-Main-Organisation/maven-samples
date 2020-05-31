@@ -15,6 +15,14 @@
     <module>multi-module</module>
     <module>single-module</module>
   </modules>
+         
+         <distributionManagement>
+       <repository>
+         <id>internal.repo</id>
+         <name>Internal repo</name>
+         <url>http://52.91.127.128:8081/repository/Sample-Snap/</url>
+       </repository>
+   </distributionManagement>
 
   <prerequisites>
     <maven>3.0.3</maven>
