@@ -16,8 +16,8 @@
          
          <distributionManagement>
        <repository>
-         <id>internal.repo</id>
-         <name>Internal repo</name>
+         <id>parent</id>
+         <name>Parent</name>
          <url>http://52.91.127.128:8081/repository/Sample-Snap/</url>
        </repository>
    </distributionManagement>
